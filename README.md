@@ -31,6 +31,6 @@ pip install groq==0.8.0 pydantic==2.7.1 httpx==0.27.0
 ```bash
 streamlit run src/main.py
 ```
-##📸 Preview
+## 📸 Preview
 
 <img width="1583" height="849" alt="لقطة شاشة 2025-11-05 040528" src="https://github.com/user-attachments/assets/09ee898a-7433-407b-ae4d-133274e977d4" />
